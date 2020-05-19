@@ -20,7 +20,7 @@ This model DPA considers existing data protection laws and regulations as a base
 
 ## Contributors
 
-U.S. Digital Response would like to thank Cari Spivack for leading and organizing this effort. We would also like to thank Colleen Brown, Dean Forbes and Michael R. Roberts at Sidley Austin LLP for their contributions and support in developing this model Data Protection Agreement.
+U.S. Digital Response would like to thank [Cari Spivack](https://www.linkedin.com/in/cari-spivack-b1816a1a2/) for leading and organizing this effort. We would also like to thank [Colleen Brown](https://www.sidley.com/en/people/b/brown-colleen-theresa), [Dean Forbes](https://www.sidley.com/en/people/f/forbes-dean-c) and [Michael R. Roberts](https://www.sidley.com/en/people/r/roberts-michael-r) at [Sidley Austin LLP](https://www.sidley.com/en/us/) for their contributions and support in developing this model Data Protection Agreement.
 
 ## Learn more
 
