@@ -16,7 +16,7 @@ This model DPA considers existing data protection laws and regulations as a base
 
 ## Download
 
-You can download a pdf [here](https://docs.google.com/document/d/1_3cnFiGzkuCdKu0QFuWIPLo1o6FqHPJuNiV0AwTA97I/export?format=pdf)
+[Download the latest pdf of the DPA](https://docs.google.com/document/d/1_3cnFiGzkuCdKu0QFuWIPLo1o6FqHPJuNiV0AwTA97I/export?format=pdf)
 
 ## Contributors
 
@@ -26,4 +26,3 @@ U.S. Digital Response would like to thank Colleen Brown, Dean Forbes and Michael
 ## Learn more
 
 To learn more about U.S. Digital Response, check out our website [usdigitalresponse.org](http://usdigitalresponse.org), contribute to our GitHub Repositories, or follow us on twitter @USDResponse!
-

@@ -6,7 +6,7 @@ This model DPA considers existing data protection laws and regulations as a base
 
 **These model provisions do not constitute legal advice, and are not intended to be used as a replacement for advice of counsel.**
 
-You can download the latest pdf [here](https://docs.google.com/document/d/1_3cnFiGzkuCdKu0QFuWIPLo1o6FqHPJuNiV0AwTA97I/export?format=pdf)
+[Download the latest pdf of the DPA](https://docs.google.com/document/d/1_3cnFiGzkuCdKu0QFuWIPLo1o6FqHPJuNiV0AwTA97I/export?format=pdf)
 
 ----
 
