@@ -13,5 +13,5 @@ U.S. Digital Response would like to thank Colleen Brown, Dean Forbes and Michael
 
 ## Learn more
 
-To learn more about U.S. Digital Response, check out their website www.usdigitalresponse.org, contribute to their GitHub Repository, or follow them on twitter @USDResponse!
+To learn more about U.S. Digital Response, check out our website [usdigitalresponse.org](http://usdigitalresponse.org), contribute to our GitHub Repositories, or follow us on twitter @USDResponse!
 
