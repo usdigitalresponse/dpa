@@ -1,3 +1,13 @@
+# Introduction
+
+This document provides guidance for creating an agreement for privacy and security standards related to the development of an exposure alerting software solution (“Software”). While the law provides a backdrop for the protection of and requirements for the processing of personal data as well as data that constitute government records, it does not necessarily answer the question of how commercial relations and data rights must be structured in all possible Software deployments. To foster the necessary trust in Software that will lead to popular use, and thus make Software effective for public health objectives, U.S. Digital Response encourages the implementation of data protection accountability mechanisms for both public and private entities. This model data protection agreement (“DPA”) helps provide such accountability, and so U.S. Digital Response makes this DPA publicly available.
+
+This model DPA considers existing data protection laws and regulations as a baseline and prescribes a framework with a high standard of data governance, and by providing this as a proposed contractual agreement, it creates an enforceable mechanism for additional accountability. The DPA also assimilates considerations from Privacy By Design, Fair Information Principle Practices, thought leadership from a variety of interested stakeholders including privacy, security and civil liberty organizations, government agencies, industry and technology companies and associations, as well as public health professionals, including the CDC and epidemiologists. However, it is important to note that information and guidance pertaining to the COVID-19 pandemic changes on a daily – if not hourly – basis and may become stale very quickly. Parties are thus encouraged to consider the most updated regulatory and public health guidance as appropriate. In addition, this DPA is designed as a starting point to flexibly cover a broad range of potential data governance scenarios. Particular circumstances—including the technology requirements—may differ. We suggest the parties tailor the DPA to address particular circumstances with the advice of legal counsel.
+
+**These model provisions do not constitute legal advice, and are not intended to be used as a replacement for advice of counsel.**
+
+----
+
 ## 1. Definitions
 For purposes of this DPA the following definitions apply:
 
