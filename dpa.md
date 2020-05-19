@@ -8,6 +8,10 @@ This model DPA considers existing data protection laws and regulations as a base
 
 [Download the latest pdf of the DPA](https://docs.google.com/document/d/1_3cnFiGzkuCdKu0QFuWIPLo1o6FqHPJuNiV0AwTA97I/export?format=pdf)
 
+
+**The markdown version of this is missing a lot of context and foot notes that the PDF has. Please refer to the PDF. The markdown version is here only for reference.**
+
+
 ----
 
 ## 1. Definitions
