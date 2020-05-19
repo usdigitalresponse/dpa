@@ -14,6 +14,17 @@ This model DPA considers existing data protection laws and regulations as a base
 
 ----
 
+# Data Protection Agreement
+
+
+**THIS DATA PROTECTION AGREEMENT** (this “**DPA**”) is effective as of this ____ day of _______, 202_ by and between ________ (the “**Client**”) and _________ (the “**Consultant**”), together the “**Parties**”.
+
+**WHEREAS**, the Client desires to develop an application for public health risk analysis and reporting (“Software”) that will collect user data relating to public health imperatives, including the containment of COVID-19;
+
+**WHEREAS**, the Client and the Consultant desire to execute this DPA to provide an accountability mechanism to foster the trust necessary for popular use of the Software;
+
+**NOW, THEREFORE**, the parties agree to the following data protection provisions:
+
 ## 1. Definitions
 For purposes of this DPA the following definitions apply:
 
