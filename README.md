@@ -24,4 +24,4 @@ U.S. Digital Response would like to thank Cari Spivack for leading and organizin
 
 ## Learn more
 
-To learn more about U.S. Digital Response, check out our website [usdigitalresponse.org](http://usdigitalresponse.org), contribute to our GitHub Repositories, or follow us on twitter @USDResponse!
+To learn more about U.S. Digital Response, check out our website [usdigitalresponse.org](http://usdigitalresponse.org), contribute to our GitHub Repositories, or follow us on twitter [@USDResponse](http://twitter.com/USDResponse)!
